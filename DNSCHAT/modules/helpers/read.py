@@ -16,7 +16,7 @@ START = """**
 ๏ ᴜᴘᴛɪᴍᴇ » {}
 
 ╔═════════════════╗
-║ ➻ ᴍʏ ʀᴇᴘᴏ ➪ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/VEM15/VEM-CHAT-BOT)  
+║ ➻ ᴍʏ ʀᴇᴘᴏ ➪ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/RAJA-BABY/MAHICHAT)  
 ║ ➻ ᴄʀᴇᴀᴛᴏʀ ➪ [ᴅɴs ✯ ᴏᴡɴᴇʀ](https://t.me/FRIEND_KI_MASTI)                         
 ╚═════════════════╝
 **"""
@@ -61,7 +61,7 @@ CHATBOT_READ = f"""**
 📡 ᴍᴀᴅᴇ ʙʏ ➪ [ᴅɴs ✯ ᴏᴡɴᴇʀ](https://t.me/FRIEND_KI_MASTI) 💞**
 """
 
-SOURCE_READ = f"**ʜᴇʏ, ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴏғ [{DNSCHAT.name}](https://t.me/{DNSCHAT.username}) ɪs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ.**\n**ᴘʟᴇᴀsᴇ ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ & ɢɪᴠᴇ ᴛʜᴇ sᴛᴀʀ ✯**\n**──────────────────**\n**ʜᴇʀᴇ ɪs ᴛʜᴇ [sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ](https://github.com/VEM15/VEM-CHAT-BOT)**\n**──────────────────**\n**ɪғ ʏᴏᴜ ғᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴀᴛ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/FRIEND_KI_MASTI).\n<b>||📡 ᴍᴀᴅᴇ ʙʏ ➪ [ʀᴀᴊᴀ ✯ ᴏᴡɴᴇʀʀ](https://t.me/FRIEND_KI_MASTI) 💞**||</b>"
+SOURCE_READ = f"**ʜᴇʏ, ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴏғ [{DNSCHAT.name}](https://t.me/{DNSCHAT.username}) ɪs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ.**\n**ᴘʟᴇᴀsᴇ ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ & ɢɪᴠᴇ ᴛʜᴇ sᴛᴀʀ ✯**\n**──────────────────**\n**ʜᴇʀᴇ ɪs ᴛʜᴇ [sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ](https://github.com/RAJA-BABY/MAHICHAT)**\n**──────────────────**\n**ɪғ ʏᴏᴜ ғᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴀᴛ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/FRIEND_KI_MASTI).\n<b>||📡 ᴍᴀᴅᴇ ʙʏ ➪ [ʀᴀᴊᴀ ✯ ᴏᴡɴᴇʀʀ](https://t.me/FRIEND_KI_MASTI) 💞**||</b>"
 
 ADMIN_READ = f"sᴏᴏɴ"
 
