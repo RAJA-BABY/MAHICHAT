@@ -17,7 +17,7 @@ START = """**
 
 ╔═════════════════╗
 ║ ➻ ᴍʏ ʀᴇᴘᴏ ➪ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/RAJA-BABY/MAHICHAT)  
-║ ➻ ᴄʀᴇᴀᴛᴏʀ ➪ [ᴅɴs ✯ ᴏᴡɴᴇʀ](https://t.me/FRIEND_KI_MASTI)                         
+║ ➻ ᴄʀᴇᴀᴛᴏʀ ➪ [ʀᴀᴊᴀ ✯ ᴏᴡɴᴇʀ](https://t.me/FRIEND_KI_MASTI)                         
 ╚═════════════════╝
 **"""
 
